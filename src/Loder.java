@@ -8,6 +8,5 @@ public class Loder {
         dog1.drink(10.0);
         dog1.woof();
         System.out.printf("Вес кошки N1 после кормежки: %.2f %n", dog1.getWeight());
-        System.out.println();
     }
 }
